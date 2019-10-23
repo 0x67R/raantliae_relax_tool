@@ -14,6 +14,11 @@ This tool is available for Windows operating systems, has been perfectly tested 
 - Windows 8, 8.1
 - Windows 10 (All Versions)
 
+#### Running Software
+
+<img src="/screenshot_running_software/RunningHash.png" width="1000" heigth="500">
+<img src="/screenshot_running_software/RunningHash[2].png" width="1000" heigth="500">
+
 ## How to install
 
 Download the [RAAntliaeRelaxTool](https://github.com/0x67R/raantliae_relax_tool.git), place it in the desired folder on your system, add the path of 'raantliae_relax_tool' to the variable 'PATH'
@@ -24,5 +29,7 @@ Enjoy!!!
 ## License
 
 - Copyright (C) 2019, Rafael Godoy, <0x67rafael@protonmail.com>
-- RAAntliaeRelaxTool - Base Encoder, Number System Converter and Hash Generator aka 'raantliae_relax_tool-v1.0.exe' software is licensed under the terms: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License.
+- RAAntliaeRelaxTool - Base Encoder, Number System Converter and Hash Generator aka 'raantliae_relax_tool-v1.0.exe' software is licensed under the terms: (CC BY-NC-ND 4.0)
 - See the [LICENSE.md](https://github.com/0x67R/raantliae_relax_tool/blob/master/LICENSE.md) file for details
+
+<img src="LICENSE_LOGO.png" width="350" heigth="350">
