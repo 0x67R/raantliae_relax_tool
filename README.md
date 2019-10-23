@@ -3,6 +3,8 @@
 I didn't find any Windows (CLI) tools that could do these processes simply without having to type in many commands. 
 So I developed 'RAAntliaeRelaxTool ' so that I could automate these processes. The tool generates various results from a single data entry.
 
+- Software written in C/C++
+
 # Features
 Converts 'strings' to Hexadecimal, Octal, Decimal, and Binary numbering systems (64-bit, 32-bit, 16-bit, and 8-bit).
 Encode the 'strings' to Base64.
